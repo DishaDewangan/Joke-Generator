@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Fuzzy Bubbles", sans-serif;
+}
+
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT868B-MxfbErBiTqViy1aF4VLk4eErR7hqsg&s");
+  background-size: 150px 150px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+
+.heading {
+  border-radius: 50px;
+  font-size: 3.5rem;
+  margin-top: 100px;
+  text-align: center;
+  color: red;
+  padding: 20px;
+  letter-spacing: 2px;
+}
+
+.container {
+  margin-top: 80px;
+  width: 900px;
+  height: 300px;
+  background-color: rgb(255, 255, 0, 0.75);
+  border-radius: 50px;
+  padding: 20px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  margin-top: 185px;
+  height: 43px;
+  width: 160px;
+  color: rgb(255, 255, 255);
+  font-weight: 900;
+  background-color: black;
+
+  border: none;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  position: fixed;
+}
+
+.btn:hover {
+  font-weight: 900;
+  background-color: red;
+  color: #ffffff;
+  box-shadow: 2px 2px 15px rgb(255, 255, 255);
+  transition: all 300ms ease;
+}
+
+.joke {
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin: 40px;
+  margin-top: 10px;
+  text-align: center;
+}
