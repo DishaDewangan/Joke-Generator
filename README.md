@@ -1,4 +1,4 @@
-# 😂 Dad Jokes Generator
+# 😂 Pun & Fun Generator
 
 A fun web app that fetches and displays random dad jokes using the icanhazdadjoke API. Just click the button and get ready to laugh!
 
