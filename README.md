@@ -3,7 +3,7 @@
 A fun web app that fetches and displays random dad jokes using the icanhazdadjoke API. Just click the button and get ready to laugh!
 
 ## 🌐 Live Demo
-Check out the [live demo](https://dishadewangan.github.io/Pun-Fun-Generator/) and enjoy some hilarious dad jokes! The app is fully responsive and works seamlessly on both desktop and mobile screens.
+Check out the [live demo](https://dishadewangan.github.io/Joke-Generator/) and enjoy some hilarious dad jokes! The app is fully responsive and works seamlessly on both desktop and mobile screens.
 
 ## 🛠️ Tech Stack
 - **HTML & CSS**: Structure and responsive styling with playful design.
