@@ -18,7 +18,7 @@ Check out the [live demo](https://dishadewangan.github.io/Laughify/) and enjoy s
 ## How to Run
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/dishadewangan/dad-jokes-generator.git
+   git clone https://github.com/dishadewangan/laughify.git
    ```
 2. **Open `index.html` in your browser**:
    ```bash
